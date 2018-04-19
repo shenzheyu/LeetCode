@@ -12,16 +12,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="397">
+              <caret line="17" column="19" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SolutionTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SolutionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="310">
@@ -45,8 +45,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution.java" />
         <option value="$PROJECT_DIR$/src/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
       </list>
     </option>
   </component>
@@ -186,7 +186,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524127259315</updated>
-      <workItem from="1524127262508" duration="1645000" />
+      <workItem from="1524127262508" duration="2418000" />
     </task>
     <servers />
   </component>
@@ -209,9 +209,18 @@
     <history-entry file="SolutionTest_convertToTitleTest - 2018.04.19 at 17h 07m 49s.xml">
       <configuration name="SolutionTest.convertToTitleTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SolutionTest_convertToTitleTest - 2018.04.19 at 17h 08m 31s.xml">
+      <configuration name="SolutionTest.convertToTitleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_convertToTitleTest - 2018.04.19 at 17h 09m 01s.xml">
+      <configuration name="SolutionTest.convertToTitleTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_convertToTitleTest - 2018.04.19 at 17h 09m 10s.xml">
+      <configuration name="SolutionTest.convertToTitleTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1645000" />
+    <option name="totallyTimeSpent" value="2418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -227,7 +236,7 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.32986626" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32986626" />
       <window_info anchor="bottom" id="Style Checker" order="0" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" order="2" />
@@ -268,13 +277,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
@@ -282,6 +284,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
