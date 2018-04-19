@@ -1,5 +1,9 @@
 public class SolutionTest {
 
+    /**
+     * Testcase: [1,2,3]
+     * Except output: [3,2,1]
+     */
     public static void reverseListTest () {
         ListNode listNode1 = new ListNode(1);
         ListNode listNode2 = new ListNode(2);

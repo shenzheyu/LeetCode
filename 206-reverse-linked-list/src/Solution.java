@@ -27,4 +27,5 @@ public class Solution {
         ptr.next = prev;
         return ptr;
     }
+
 }
