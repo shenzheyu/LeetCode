@@ -7,6 +7,7 @@ public class Solution {
         if(l1 == null && l2 == null) {
             return new ListNode(0);
         }
+		
         ListNode res = new ListNode(0);
         ListNode cur = res;
         int temp = 0;
