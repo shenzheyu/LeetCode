@@ -69,27 +69,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="046-permutations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="046-permutations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="046-permutations" type="b2602c69:ProjectViewProjectNode" />
-              <item name="046-permutations" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -186,7 +166,7 @@
       <option name="presentableId" value="Default" />
       <updated>1525435921573</updated>
       <workItem from="1525435923471" duration="1197000" />
-      <workItem from="1525505536455" duration="599000" />
+      <workItem from="1525505536455" duration="601000" />
     </task>
     <servers />
   </component>
@@ -196,7 +176,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1796000" />
+    <option name="totallyTimeSpent" value="1798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
