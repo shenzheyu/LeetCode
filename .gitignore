@@ -1,32 +1,12 @@
-# Prerequisites
-*.d
+### C++ ###
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+### CLion ###
+# xml files
+.idea/
 
-# Precompiled Headers
-*.gch
-*.pch
+# CMake
+cmake-build-*/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+### macOS ###
+# General
+.DS_Store
