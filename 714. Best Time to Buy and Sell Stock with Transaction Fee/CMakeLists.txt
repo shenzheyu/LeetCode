@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(714__Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(714__Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee main.cpp)
