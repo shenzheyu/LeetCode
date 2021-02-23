@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(106__Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(106__Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal main.cpp)
