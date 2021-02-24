@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(297__Serialize_and_Deserialize_Binary_Tree)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(297__Serialize_and_Deserialize_Binary_Tree main.cpp)
